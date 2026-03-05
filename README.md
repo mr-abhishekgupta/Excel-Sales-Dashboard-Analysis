@@ -6,7 +6,6 @@ The goal of this project was to analyze sales and profit data to identify key tr
 ## 🛠️ Skills & Tools Used
 - **Advanced Excel:** Pivot Tables, Slicers, Data Cleaning, and Conditional Formatting.
 - **Data Visualization:** Bar Charts, Line Graphs, and Pie Charts.
-- **SQL (Analytical Thinking):** Used for data structuring and filtering logic.
 
 ## 📈 Key Insights from the Dashboard
 - **Top Performing Region:** Identified the region contributing the most to total revenue.
