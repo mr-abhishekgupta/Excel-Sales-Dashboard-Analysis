@@ -15,3 +15,6 @@ The goal of this project was to analyze sales and profit data to identify key tr
 1. Open the `Excel-Project.pdf` to see the dashboard.
 2. Download the `.xlsx` file for the full interactive experience.# Excel-Sales-Dashboard-Analysis
 Interactive Sales Dashboard built using Advanced Excel and Pivot Tables to analyze regional performance.
+
+![dashboard-preview](https://github.com/user-attachments/assets/272ca8c2-2f26-47bc-a90a-d1edaf223ef5)
+
